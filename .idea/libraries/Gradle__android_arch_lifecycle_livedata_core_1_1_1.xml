@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:livedata-core-1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/3a1f95b7d2d99d77d1b397441b3de2e6213b536e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3a1f95b7d2d99d77d1b397441b3de2e6213b536e/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/livedata-core/1.1.1/c38818e006ea7a408c05e3090364332d46494ef/livedata-core-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
